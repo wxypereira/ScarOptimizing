@@ -126,4 +126,4 @@ Este projeto não seria possível sem o suporte de ferramentas incríveis e a ba
 ### Licença
 Distribuído sob a licença **GPL-3.0**. Veja o arquivo `LICENSE` no repositório para mais detalhes.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volte ao topo</a>)</p>
